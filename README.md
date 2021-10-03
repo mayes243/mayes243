@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ma Ýes</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Nepal.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Nepal. <img src="https://4.bp.blogspot.com/-xQiVfurjEqg/WzOeOJ4aTdI/AAAAAAAAol0/72y9ICam56shTYXRwaUL7vhqqbTDAM80ACLcBGAs/s1600/Flag_of_Nepal.gif" height="30"/></h3>
 
 ## 🙋‍♂️ About Me
 
@@ -28,7 +28,7 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://tailwindcss.com" target="_blank"> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> </a> 
+    <a href="https://tailwindcss.com" target="_blank"> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> </a>  
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -51,6 +51,8 @@
         <img title="🔥 Get streak stats for your profile at https://github.com/mayeskhatri243" alt="Ma Ýes Khatri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayeskhatri243&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> -->
+  <br/>
+
 
 ## 📊 My Github Stats
 
