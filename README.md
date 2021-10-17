@@ -74,9 +74,9 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mayes-khatri-1aa580181/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mayes243" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/mayes243/" target="_blank"><img src="https://img.icons8.com/color/48/0000/facebook"/></a>
+<a href = "https://www.linkedin.com/in/mayes-khatri-1aa580181/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mayes243" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/mayes243/" target="blank"><img src="https://img.icons8.com/color/48/0000/facebook"/></a>
 
 </p>
 
