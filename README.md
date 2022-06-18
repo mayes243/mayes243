@@ -5,7 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kreesa](https://www.kreesa.com)**
+<!-- - 🔭 I’m currently working on **[Kreesa](https://www.kreesa.com)** -->
+
+- 🔭 I’m currently working on <a href="https://www.kreesa.com" target="_blank">Kreesa</a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
