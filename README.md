@@ -51,7 +51,6 @@
         <img title="🔥 Get streak stats for your profile at https://github.com/mayes243" alt="Ma Ýes Khatri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mayes243&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-  <br/>
 
 ## 📊 My Github Stats
 
@@ -75,6 +74,7 @@
 <a href = "https://www.linkedin.com/in/mayes243" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mayes243" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/mayes243" target="_blank"><img src="https://img.icons8.com/color/48/0000/facebook"/></a>
+<a href = "https://bit.ly/3p4pEp9" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube.png"/></a>
 
 </p>
 
