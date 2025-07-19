@@ -5,7 +5,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kreesa](https://www.kreesa.com)**
+- 🔧 I'm a passionate MERN Stack Developer focused on building scalable, full-stack web applications.
+- 💻 Specializing in the **MERN Stack**: MongoDB, Express.js, React.js, and Node.js.
+- 🌱 Constantly improving my skills in Data Structures, Algorithms, and modern web technologies.
+- 👯 I enjoy contributing to open source projects and collaborating with like-minded developers.
+- 📬 Reach out anytime at **<mayeskhatri243@gmail.com>** — always happy to connect or collaborate.
+- ⚡ Fun fact: When I’m not coding, I’m probably gaming or lifting at the gym.
+
+<!-- - 🔭 I’m currently working on **[Kreesa](https://www.kreesa.com)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -13,10 +20,25 @@
 
 - 📫 How to reach me **mayeskhatri243@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
 <!-- <br/> -->
-<br/>
+
+<!-- ## 🧰 My Stack
+
+- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap, Redux Toolkit, React Native
+- Backend: Node.js, Express.js, NestJS, REST APIs, Firebase, WebSockets
+- Database: MongoDB, MySQL, PostgreSQL, Redis
+- Testing: Jest, Mocha, Chai, Cypress, React Testing Library, Postman (for API testing), JMeter
+- Monitoring & Debugging: Sentry, LogRocket, New Relic, PostHog
+- CI/CD & DevOps: GitHub Actions, Docker, Docker Compose, Vercel, Netlify, Jenkins, Heroku
+- Tools: Git, GitHub, Postman, Linux, VSCode, Figma, Notion
+- Other: TypeScript, JWT/Auth, Stripe Integration, OAuth, Webhooks, RESTful Design, Agile/Scrum
+- **Architecture & Design:** MVC, Microservices, Monorepos, API-first Development
+- **Soft Skills:** Mentorship, Code Reviews, Agile Collaboration, Documentation Best Practices
+- **Other Interests:** Cloud Computing (AWS, Azure), GraphQL, WebAssembly, Progressive Web Apps (PWAs)
+- **Learning:** Continuously exploring new technologies and frameworks to stay updated in the ever-evolving tech landscape. -->
+  <br/>
 
 ## 🚀 Languages and Tools:
 
@@ -44,6 +66,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
+    <a href="https://nestjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
     
 </p>
 
