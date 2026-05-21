@@ -86,12 +86,15 @@
   <a href="https://github.com/mayes243">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayes243&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
-    height="180"
+    height="190"
+    alt="Ma Ýes Khatri's Top Languages" 
   />
-
+  <a/>
+<a href="https://github.com/mayes243">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayes243&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-    height="180"
+    height="190"
+    alt="Ma Ýes Khatri's Top Languages"
   />
   <a/>
   <br/>
