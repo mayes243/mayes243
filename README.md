@@ -83,7 +83,7 @@
 ## 📊 My Github Stats
 
   <br/>
-<p align="center">
+  <a href="https://github.com/mayes243">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayes243&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
     height="180"
@@ -93,7 +93,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayes243&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
     height="180"
   />
-</p>
+  <a/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
