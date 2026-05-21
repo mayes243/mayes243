@@ -89,14 +89,14 @@
     height="190"
     alt="Ma Ýes Khatri's Top Languages" 
   />
-  <a/>
+  </a>
 <a href="https://github.com/mayes243">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayes243&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
     height="190"
     alt="Ma Ýes Khatri's Top Languages"
   />
-  <a/>
+  </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
